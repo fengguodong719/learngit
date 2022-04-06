@@ -4,4 +4,3 @@ Git has a mutable index called stage.
 Git tracks changes.
 I have a remote repostority.
 Creating a new branch is quick.
-afdasfafwefwfwfw.
